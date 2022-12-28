@@ -29,8 +29,8 @@
 
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk menempatkan variable sebelumnya.
 
-      umur = 24
-      txt = "\nHello, nama saya john, dan umur saya adalah {0} tahun\n"
+      umur = 18
+      txt = "\nHello, nama saya azwa, dan umur saya adalah {0} tahun\n"
 
       print(txt.format(umur))
 
